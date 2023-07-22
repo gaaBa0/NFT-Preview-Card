@@ -1,0 +1,73 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    color: white;
+    font-size: 18px;
+}
+
+.pr {
+    background-color: hsl(216, 50%, 16%);
+    padding: 25px;
+    width: fit-content;
+    text-align: left;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+
+.nft img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.name {
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.sum {
+    color: hsl(215, 51%, 70%);
+    width: 300px;
+    margin-top: 15px;
+    font-weight: 300;
+}
+
+.price {
+    margin-top: 15px;
+}
+
+.pric {
+    color: hsl(178, 100%, 50%);
+    margin-right: 65px;
+    font-size: 16px;
+}
+
+.tim {
+    color: hsl(215, 51%, 70%);
+    font-size: 16px;
+    font-weight: 300;
+}
+
+hr {
+    border-color: hsl(215, 32%, 27%);
+}
+
+.avatar {
+    width: 35px;
+    display: inline-block;
+    margin-top: 7.5px;
+}
+
+.crea {
+    float: right;
+    margin-top: 15px;
+    margin-right: 55px;
+    font-weight: 400;
+}
+
+.co {
+    color: hsl(215, 51%, 70%);
+}
